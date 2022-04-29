@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>唐以恒的个人网站</title>
+        <link>https://tang1heng.github.io/</link>
+        <description>唐以恒的个人网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+            <atom:link href="https://tang1heng.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
